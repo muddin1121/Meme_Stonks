@@ -1,3 +1,2 @@
 # Meme_Stonks
-
-Shourav Ahmed
+# Mohammed Uddin
